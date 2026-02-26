@@ -2,7 +2,7 @@
 
 A comprehensive, educational implementation of modern multimodal large language models (LLMs) built from scratch. This project implements **Text**, **Image**, **Video**, and **Audio/Speech** modalities with full training pipelines, inference loops, and visualization utilities.
 
-Inspired by [Raschka's ML Book](https://github.com/rasbt/machine-learning-book) and modern architectures like FLUX, Stable Diffusion 3, and Flow Matching approaches.
+Inspired by modern architectures like FLUX, Stable Diffusion 3, and Flow Matching approaches.
 
 ---
 
